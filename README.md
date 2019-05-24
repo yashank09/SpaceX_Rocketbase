@@ -1,1 +1,2 @@
-#SpaceX Rocketbase \b Database for SpaceX using React.js and GraphQL.
+# SpaceX Rocketbase
+Webapp to view SpaceX launches using React.js and GraphQL.
